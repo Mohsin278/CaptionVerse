@@ -13,7 +13,7 @@ export default function Navbar() {
           width={36}
           height={36}
         />
-        <h1 className="sm:text-5xl text-3xl font-bold ml-2 tracking-tight text-white hover:text-white/50">
+        <h1 className="sm:text-4xl text-3xl font-bold ml-2 tracking-tight text-white hover:text-white/50">
           CaptionVerse
         </h1>
       </Link>

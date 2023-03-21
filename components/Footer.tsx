@@ -32,7 +32,7 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://github.com/hqasmei/captionAI"
+          href="https://github.com/Mohsin278"
           className="group"
           target="_blank"
           rel="noreferrer"
